@@ -4,6 +4,8 @@
 
 I created this language because of my curiosity. I wanted to learn more about programming languages and how to write interpreters. Another reason as to why I wrote this interpreter was to create a language that uses mathematical terminology and Polish notation. For example instead of using `let` or `int` to create variables, my language uses `def` from "define". Another difference from most popular languages is its way of writing expressions and operations. Most used way of writing expressions is `a + b`. In Polish notation it is `+ a b` - the operation type comes first. The same rule applies to every other expression - the desired operation always comes before the variable name. I also wanted to make this language easy to read by avoiding using very simplified shortcuts for expressions. Keep in mind that this interpreter is provided as is and unexpected behavior may occur. I tested the language on a few most basic algorithms and got no errors, but always be careful.
 
+You can see example programs I created in this [repository](https://github.com/Mizantoro/ml-example-programs)
+
 ## Syntax
 
 ### General Information
